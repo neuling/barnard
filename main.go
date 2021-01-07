@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"layeh.com/barnard/uiterm"
-	"layeh.com/gumble/gumble"
+	"github.com/neuling/gumble"
 	_ "layeh.com/gumble/opus"
 )
 
