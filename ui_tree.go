@@ -2,7 +2,7 @@ package main
 
 import (
 	"layeh.com/barnard/uiterm"
-	"layeh.com/gumble/gumble"
+	"github.com/neuling/gumble"
 )
 
 type TreeItem struct {
