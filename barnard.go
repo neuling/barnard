@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 
 	"github.com/neuling/barnard/uiterm"
-	"github.com/neuling/gumble"
+	"github.com/neuling/gumble/gumble"
 	"github.com/neuling/gumble/gumbleopenal"
 )
 
