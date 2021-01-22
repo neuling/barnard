@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/kennygrant/sanitize"
-	"layeh.com/barnard/uiterm"
-	"layeh.com/gumble/gumble"
+	"github.com/neuling/barnard/uiterm"
+	"github.com/neuling/gumble/gumble"
 )
 
 const (
