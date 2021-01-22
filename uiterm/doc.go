@@ -1,1 +1,1 @@
-package uiterm // import "layeh.com/barnard/uiterm"
+package uiterm // import "github.com/neuling/barnard/uiterm"
