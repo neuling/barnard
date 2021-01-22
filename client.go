@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/neuling/gumble/gumble"
-	"layeh.com/gumble/gumbleopenal"
-	"layeh.com/gumble/gumbleutil"
+	"github.com/neuling/gumble/gumbleopenal"
+	"github.com/neuling/gumble/gumbleutil"
 )
 
 func (b *Barnard) start() {
