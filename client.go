@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/neuling/gumble"
+	"github.com/neuling/gumble/gumble"
 	"layeh.com/gumble/gumbleopenal"
 	"layeh.com/gumble/gumbleutil"
 )
