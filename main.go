@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/neuling/barnard/uiterm"
-	"github.com/neuling/gumble"
+	"github.com/neuling/gumble/gumble"
 	_ "github.com/neuling/gumble/opus"
 )
 
