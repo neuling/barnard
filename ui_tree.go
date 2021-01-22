@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/neuling/barnard/uiterm"
-	"github.com/neuling/gumble"
+	"github.com/neuling/gumble/gumble"
 )
 
 type TreeItem struct {
