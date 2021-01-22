@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"layeh.com/barnard/uiterm"
+	"github.com/neuling/barnard/uiterm"
 	"github.com/neuling/gumble"
-	_ "layeh.com/gumble/opus"
+	_ "github.com/neuling/gumble/opus"
 )
 
 func main() {
